@@ -3,8 +3,9 @@
 
 
  [Verify](https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e).                                                             
+## 
 
-![image](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/8df5ee7e-076c-43ab-b2e6-dbbc58ed71f6)
+![image](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/8df5ee7e-076c-43ab-b2e6-dbbc58ed71f6/)
 
 
 
