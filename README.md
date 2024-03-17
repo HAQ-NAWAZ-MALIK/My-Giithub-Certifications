@@ -1,8 +1,16 @@
 # My-Giithub-Certifications
-![GitHub Foundations](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/cb540ba7-2830-4253-9317-9df32895f488/https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e)
+![GitHub Foundations](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/cb540ba7-2830-4253-9317-9df32895f488/https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e)                              
 
-![Verify](https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e)
 
+ [Verify](https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e).                                                             
+
+
+
+
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/d2d4301e-fab5-465b-80a0-4d455b1a237f)
+
+ [Verify](https://www.credly.com/badges/3205661a-3f5f-460e-b195-d06afebdf2e3).  
 
 ## GitHub Certification Program FAQs
 
