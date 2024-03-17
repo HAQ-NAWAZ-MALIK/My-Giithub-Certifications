@@ -33,6 +33,9 @@ GitHub offers a variety of self-paced learning content on Microsoft Learn. This 
 - GitHub Advanced Security
 - GitHub Foundations
 
+![image](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/39ad5b16-3fe7-4d4b-878b-20966695deef)
+
+
 What skills do I need to complete the certificate program?
 On every certification page, you’ll find a “skills measured” section that lists the skills that will be assessed. Start by reviewing the skills measured by the exam. If you have the skills, you can register for the exam. If you want additional training, refer to the courses or learning paths in the “preparing for the certification” section.
 
