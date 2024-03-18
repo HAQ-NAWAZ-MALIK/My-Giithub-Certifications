@@ -2,12 +2,35 @@
 ![GitHub Foundations](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/cb540ba7-2830-4253-9317-9df32895f488/https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e)                              
 
 
- [Verify](https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e).                                                             
+ [Verify](https://www.credly.com/badges/4ac8853a-55ce-46af-90b0-cbe2d42dbf0e).
+
+
+My Results Report
+
+Overall score:  80%
+
+1.0  Introduction to Git and GitHub: 100%
+2.0  Working with GitHub Repositories: 80%
+3.0  Collaboration Features: 83%
+4.0  Modern Development: 37%
+5.0  Project Management: 75%
+6.0  Privacy, Security, and Administration: 83%
+7.0  Benefits of the GitHub Community: 83%
+
 ## 
 
 ![image](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/8df5ee7e-076c-43ab-b2e6-dbbc58ed71f6/)
 
+## My Results Report
 
+GitHub Actions (English)
+
+Overall score:  83%
+
+1.0  Author and Maintain Workflows: 83%
+2.0  Consume Workflows: 91%
+3.0  Author and Maintain Actions: 86%
+4.0  Manage GitHub Actions in the Enterprise: 66%
 
  [Verify](https://www.credly.com/badges/3205661a-3f5f-460e-b195-d06afebdf2e3).  
 
