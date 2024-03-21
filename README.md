@@ -34,6 +34,17 @@ Overall score:  83%
 
  [Verify](https://www.credly.com/badges/3205661a-3f5f-460e-b195-d06afebdf2e3).  
 
+
+
+
+
+## 
+![image](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/189fc1a3-ce54-419b-afd1-3f84c2be4c40)
+
+
+ [Verify](https://www.credly.com/earner/earned/badge/10720a03-c343-407d-ade0-619d8780903b)
+
+
 ## GitHub Certification Program FAQs
 
 **General:**
