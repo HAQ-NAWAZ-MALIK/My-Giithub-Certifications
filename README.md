@@ -42,6 +42,17 @@ Overall score:  83%
 ![image](https://github.com/HAQ-NAWAZ-MALIK/My-Giithub-Certifications/assets/86514900/189fc1a3-ce54-419b-afd1-3f84c2be4c40)
 
 
+My Results Report
+
+Overall score:  81%
+
+1.0  Describe the GHAS security features and functionality: 83%
+2.0  Configure and use secret scanning: 66%
+3.0  Configure and use dependency management: 88%
+4.0  Configure and use code scanning: 66%
+5.0  Use code scanning with CodeQL: 91%
+6.0  Describe GitHub Advanced Security best practices, results, and how to take corrective measures : 72%
+7.0  GitHub Advanced Security Administration: 100%
  [Verify](https://www.credly.com/earner/earned/badge/10720a03-c343-407d-ade0-619d8780903b)
 
 
